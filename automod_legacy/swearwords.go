@@ -15,7 +15,7 @@ var BuiltinSwearWords = map[string]bool{
 	"blowjob":     true,
 	"bollock":     true,
 	"bollok":      true,
-	"boner":       true,
+	"boner":       false,
 	"boob":        true,
 	"boobs":       true,
 	"buttplug":    true,
